@@ -4,8 +4,8 @@
 
 ### SD.Next
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryQuantumSoul&repo=sdnext-remote-inference&theme=aura&border_color=9e74f9)](https://github.com/BinaryQuantumSoul/sdnext-remote-inference)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryQuantumSoul&repo=sdnext-ui-ux&theme=aura&border_color=9e74f9)](https://github.com/BinaryQuantumSoul/sdnext-ui-ux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=automatic&theme=aura&border_color=9e74f9)](https://github.com/vladmandic/automatic)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryQuantumSoul&repo=sdnext-ui-ux&theme=aura&border_color=9e74f9)](https://github.com/BinaryQuantumSoul/sdnext-ui-ux) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryQuantumSoul&repo=sdnext-carefree&theme=aura&border_color=9e74f9)](https://github.com/BinaryQuantumSoul/sdnext-carefree) -->
 
 ### BetterDiscord
