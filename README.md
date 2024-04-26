@@ -4,6 +4,7 @@
 
 ### Stable Diffusion
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=automatic&theme=aura&border_color=9e74f9)](https://github.com/vladmandic/automatic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryQuantumSoul&repo=sdnext-modernui&theme=aura&border_color=9e74f9)](https://github.com/BinaryQuantumSoul/sdnext-modernui) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryQuantumSoul&repo=sdnext-remote&theme=aura&border_color=9e74f9)](https://github.com/BinaryQuantumSoul/sdnext-remote) 
 
 ### BetterDiscord
